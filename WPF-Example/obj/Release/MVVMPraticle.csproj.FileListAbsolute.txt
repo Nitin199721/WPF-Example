@@ -1,0 +1,2 @@
+C:\Users\int127\source\repos\MVVMPraticle\WPF-Example\obj\Release\App.g.cs
+C:\Users\int127\source\repos\MVVMPraticle\WPF-Example\obj\Release\MVVMPraticle_MarkupCompile.cache
